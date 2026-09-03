@@ -17,13 +17,13 @@ import basescan from "../assets/networks-icon/basescan.svg";
 
 //partner image display
 import CoinGecko from "../assets/partner-icon/coingercko.png";
-import CoinMarketCap from "../assets/partner-icon/coinmarket.png";
-import EtherAuthority from "../assets/partner-icon/etherauthority.png";
-import hardhat from "../assets/partner-icon/hardhat.png";
-import InterFi from "../assets/partner-icon/inter.png";
-import metamask from "../assets/partner-icon/metamask.png";
-import taffle from "../assets/partner-icon/truffle.png";
-import remix from "../assets/partner-icon/remox.png";
+import CoinMarketCap from "../assets/partner-icon/coinmarket.PNG";
+import EtherAuthority from "../assets/partner-icon/etherauthority.PNG";
+import hardhat from "../assets/partner-icon/hardhat.PNG";
+import InterFi from "../assets/partner-icon/inter.PNG";
+import metamask from "../assets/partner-icon/metamask.PNG";
+import taffle from "../assets/partner-icon/truffle.PNG";
+import remix from "../assets/partner-icon/remox.PNG";
 
 import internshipCtaBg from "../assets/internship-cta-banner.avif";
 
