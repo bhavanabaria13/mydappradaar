@@ -19,7 +19,7 @@ const NAV = [
       { to: "/dapps", label: "dApps" },
     ],
   },
-  { to: "/blogs", label: "Blogs" },
+  { to: "/blog", label: "Blogs" },
   { to: "https://explorer.securechain.ai/", label: "Blockchain Explorer" },
   { to: "https://internship.etherauthority.io/", label: "Internship Portal" },
   { to: "/about", label: "About Us" },
